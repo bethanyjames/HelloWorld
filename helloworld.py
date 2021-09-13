@@ -1,2 +1,3 @@
-print("\nHello World")
+print()
+print("Hello World")
 print()
